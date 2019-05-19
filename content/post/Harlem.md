@@ -16,3 +16,13 @@ Langston Hughes is one of the most famous authors of the Harlem Renaissance. He 
 The Harlem Renaissance was not just a writing movement, with African Americans making moves in music as well, lead by Louis Armstrong. Brought up in a poor family, Armstrong turned to music from a young age and mastered the cornet. Thanks to a friendship with King Oliver he was able to gain experience and popularity, and soon after joined the Fletcher Henderson orchestra. It was here that he began revolutionizing jazz music by using space dramatically, building solos up to a climax, and telling a story through his music. Many of his songs are still popular today, including What a Wonderful World and When the Saints. Armstrong even created vocals, despite the fact that his tone was raspy, unlike the singers of his time. Armstrong became popular to all types of Americans, and not just African Americans. However, he rarely politicized his race except during the Little Rock Crisis. He even made it to the upper classes of society, something unheard of for African American males.
 
 The Harlem Renaissance even included artistic movements. Many of the artworks from this time clearly show themes that were also seen in the music and writing. Two of the most popular ones include The Judgement Day by Aaron Douglas and Looking Upward by James Lesesne Wells. Aaron Douglas’s piece consists of multiple colored silhouette figures and geometric shapes throughout the illustration, and a larger figure in the center of the page. The large figure in the middle is wearing wings and carries a trumpet and a key. The figure is an allusion to the angel Gabriel. While it may seem that the meaning of the artwork ends there, the  shapes on the left resemble lightning and the ones on the right resemble light, and this corresponds to the negative portrayal of the people on the left and the positive on the right. This can lead us to conclude that the men on the left are going to hell and the one on the right to heaven. 
+
+“A New African American Identity: The Harlem Renaissance.” National Museum of African American History and Culture, 14 Mar. 2018, nmaahc.si.edu/blog-post/new-african-american-identity-harlem-renaissance.
+
+“Aaron Douglas Artworks & Famous Paintings.” The Art Story, www.theartstory.org/artist-douglas-aaron-artworks.htm.
+
+Horwitz, Murray. “'Hello Dolly'.” NPR, NPR, 30 July 2000, www.npr.org/2000/07/30/1080117/hello-dolly.
+
+“Langston Hughes.” Poetry Foundation, Poetry Foundation, www.poetryfoundation.org/poets/langston-hughes.
+Yanow, Scott. “Louis Armstrong... and All That Jazz.” Biography.com, A&E Networks Television, 18 Aug. 2016, www.biography.com/news/louis-armstrong-biography-facts.
+
