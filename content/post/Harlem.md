@@ -3,6 +3,101 @@ date: "2019-05-18"
 tags: 
 title: "Harlem Renaissance"
 ---
+
+{{< youtube K-KQ4adudK4>}}
+
+Lyrics
+
+
+Intro
+Harlem Renaissance
+
+Yeah that was wavy
+
+Let me tell you a little something about that
+
+The culture, the music
+
+
+
+Verse
+
+Oppressed for centuries and mocked cause of ethnicity
+
+It was about time for blacks to find their way
+
+Make a move in society create a new wave
+
+And so they did on a new path they set forth
+
+Thousands moved to where there was freedom up North
+
+As the late 1920s rolled around
+
+Harlem became more than just a town
+
+
+
+The people of that city gave birth to a new sound
+
+Jazz flowed through the streets like water
+
+For once in their life black culture did not face slaughter
+
+Artists blossomed from every corner 
+
+From poetry, to songs, to paintings
+
+The social presence of blacks was nothing but fascinating
+
+The negro broke free of the stereotypes
+
+But the be all problem of two-ness prevailed
+
+It was hard to join heritage and experience
+
+
+
+One identity came from Africa and their ancestors
+
+Another from the struggles of America
+
+Confused and oppressed they still found their way
+
+It’s a new dawn its a new day.
+
+
+
+Many individuals came into the spotlight
+
+With a bright bright future in sight
+
+Langston Hughes wrote about it all
+
+The hardships the struggles the dreams
+
+While Louis Armstrong repped the trumpet
+
+
+
+Attracting people of harlem but also the white folk
+
+The nightlife was everything
+
+Speakeasies and clubs were the fling
+
+Now all good things come to an end
+
+In 1929 the stock market crashed
+
+The social dominance of Harlem dwindled away
+
+But the impact it left changed American culture
+
+Forever...
+
+
+
 ![](/harlem.jpg)
 
 After the Civil War, African Americans were free and had high expectations. However, they were thwarted by Jim Crow laws, the Ku Klux Klan, and other methods. By the beginning of the 20th century, African Americans realized that the South was not the best place for them, and the Great Migration began. Hundreds of thousands of African Americans moved North looking for better living standards and jobs. Around 175,000 descended on Manhattan, which has a mere area of 3 square miles, “giving the neighborhood the largest concentration of black people in the world” (“A New”).

@@ -29,27 +29,13 @@ googleAnalytics = "UA-123456789-1"
     pre = "edit"
     url = "/post/"
     weight = 2
-  [[menu.nav]]
-    name = "Tags"
-    pre = "tag"
-    url = "/tags/"
-    weight = 3
-  [[menu.nav]]
-    name = "About"
-    pre = "smile"
-    url = "/about/"
-    weight = 4
-  [[menu.nav]]
-    name = "RSS"
-    pre = "rss"
-    url = "/index.xml"
-    weight = 5
+  
 
 [params]
   includeBootstrapJs = false
   showActiveNav = true
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
-  homeText = "Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream."
+  homeText = " To learn about the Harlem Renaissance, please visit the blog section."
   footerText = "Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
   hideFooter = false
